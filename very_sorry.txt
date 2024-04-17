@@ -1,0 +1,6 @@
+Hello Tim, I’m sorry that I was unable to add my project file to Github, as I could not seem to figure out how to compress it to 25mb. I have uploaded the zipped file onto a Google Drive folder. 
+Here is the link:
+
+https://drive.google.com/drive/folders/1KjRRXQHiykD71YIhOUgCasEu1Hddsq9T?usp=sharing
+
+This document serves a demonstration of partial knowledge of uploading files onto Github.
